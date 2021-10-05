@@ -1,5 +1,5 @@
 # automated-software-testing-assignment-rest-assured
-An solution from an automated software testing assignment
+A solution from an automated software testing assignment about rest assured.
 
 ## Requeriments
 
@@ -8,6 +8,7 @@ An solution from an automated software testing assignment
 
 
 ## How to run the tests
+
 ```
 $ mvn test
 ```
