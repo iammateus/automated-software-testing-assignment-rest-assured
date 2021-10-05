@@ -13,4 +13,4 @@ $ mvn test
 ```
 
 # License
-[MIT](https://github.com/iammateus/automated-software-testing-assignment-rest-assured/blob/main/README.md)
+[MIT](https://github.com/iammateus/automated-software-testing-assignment-rest-assured/blob/main/LICENSE)
