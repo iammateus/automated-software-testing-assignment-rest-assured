@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: StarWarsAPITests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.457 s <<< FAILURE! - in StarWarsAPITests
+NotFoundTest  Time elapsed: 1.338 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <404> but was: <200>
+	at StarWarsAPITests.NotFoundTest(StarWarsAPITests.java:35)
+
