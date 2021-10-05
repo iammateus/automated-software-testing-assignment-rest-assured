@@ -6,10 +6,8 @@ An solution from an automated software testing assignment
 - [Maven](https://maven.apache.org/)
 - [Java](https://www.java.com/en/)
 
-```
 
 ## How to run the tests
-
 ```
 $ mvn test
 ```
